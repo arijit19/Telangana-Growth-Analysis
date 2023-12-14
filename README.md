@@ -1,2 +1,7 @@
 # Telangana-Growth-Analysis
-"Explored Telangana's economic growth using Python, Jupyter Notebook, and key data science principles from Google's Courses. Conducted thorough data cleaning, structuring, web scraping, and applied descriptive and inferential statistics for insightful findings."
+"This project entails conducting Exploratory Data Analysis on Telangana's economic growth. Leveraging knowledge from Google's Courses:
+-Foundations of Data Science 
+-Get Started with Python
+-Go Beyond the Numbers: Translate Data into Insights
+-The Power of Statistics
+I utilized `Jupyter Notebook`, `Python`, and libraries such as `pandas`, `numpy`, and visualization tools like `matplotlib` and `seaborn`. The analysis involved data cleaning, structuring, web scraping for additional insights, identifying outliers, and applying both descriptive and inferential statistics."
